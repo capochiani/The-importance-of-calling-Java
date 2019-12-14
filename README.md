@@ -4,8 +4,8 @@ JavaJDBC
 
 myTable.java
 
-The above code sample will produce 
+The code will produce:
 
 id  name    job
-2   fra    dev
-1   fra    dev
+2   fra    developer
+1   fra    developer
